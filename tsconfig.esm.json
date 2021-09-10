@@ -1,6 +1,5 @@
 {
   "extends": "./tsconfig.json",
-  "exclude": ["**/index.ts"],
   "compilerOptions": {
     "noEmit": false,
     "module": "es6",
